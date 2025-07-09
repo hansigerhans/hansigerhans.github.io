@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on 박찬영</title>
-    <link>https://parkchanyoung.com/</link>
-    <description>Recent content in Home on 박찬영</description>
+    <title>Posts on 박찬영</title>
+    <link>https://parkchanyoung.com/posts/</link>
+    <description>Recent content in Posts on 박찬영</description>
     <generator>Hugo</generator>
     <language>ko</language>
     <lastBuildDate>Wed, 09 Jul 2025 10:48:38 +0900</lastBuildDate>
-    <atom:link href="https://parkchanyoung.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://parkchanyoung.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
       <link>https://parkchanyoung.com/posts/test/</link>
